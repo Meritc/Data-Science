@@ -1,1 +1,5 @@
-find data-------------->collect data----------->data preprocessing-------------->apply models------------->predict or claasification
+find data-------------->collect data----------->data preprocessing-------------->apply models-------------------SVM
+                                                                                                                |
+                                                                                                                |------------->predict or claasification
+                                                                                                                |
+                                                                                                              Bidirectional Lstm
